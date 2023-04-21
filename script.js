@@ -1,5 +1,5 @@
 //Asset Credits:- Tuxemon, https://github.com/Tuxemon/Tuxemon
-
+import Phaser from 'phaser';
 
 function generateRole() {
   const roles = new Map(["Student", 2000]
