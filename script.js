@@ -1,6 +1,5 @@
 //Asset Credits:- Tuxemon, https://github.com/Tuxemon/Tuxemon
 
-
 function generateRole() {
   const roles = new Map(["Student", 2000]
                         ["Cab driver", 10000]
@@ -71,7 +70,7 @@ const config = {
       .setSize(30, 40)
       .setOffset(0, 24);
 
-    balance = 0;
+    var balance = 0;
   
     // Watch the player and worldLayer for collisions, for the duration of the scene:
     this.physics.add.collider(player, worldLayer);
