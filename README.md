@@ -1,5 +1,5 @@
-@equitygamebot webapp files
+telegram: @equitygamebot webapp files
 
-Link: [https://t.me/equitygamebot/game]
+Link: https://t.me/equitygamebot/game
 
-Submission for GGxHackathon
+Submission for GGxHackathon 2023
