@@ -187,5 +187,9 @@ const config = {
       else if (prevVelocity.y < 0) player.setTexture("atlas", "misa-back");
       else if (prevVelocity.y > 0) player.setTexture("atlas", "misa-front");
     }
+    
+    player.anims.
   }
   
+//test code
+
